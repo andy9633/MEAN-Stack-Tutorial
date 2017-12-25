@@ -1,0 +1,30 @@
+{
+  "name": "mean-test",
+  "version": "1.0.0",
+  "description": "MEAN Stack Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy9633/MEAN-Stack-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy9633/MEAN-Stack-Tutorial/issues"
+  },
+  "homepage": "https://github.com/andy9633/MEAN-Stack-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.2"
+  }
+}
